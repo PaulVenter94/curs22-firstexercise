@@ -1,0 +1,8 @@
+1|BoraBora|8000|14
+1|Maldive|6000|14
+1|Mamaia|18000|6
+1|Caribbean|10000|13
+1|Zakynthos|3000|10
+1|Costinesti|4000|7
+1|BoraBora|5000|7
+
