@@ -15,7 +15,7 @@ public class VacationController {
         this.vacationService = vacationService;
     }
 
-    @GetMapping({"", "/",})
+    @GetMapping
     public List<Vacation> getAll(@RequestParam(required = false) String location,
                                  @RequestParam(required = false) Integer maxPrice) {
         return vacationService.getAllVacations(maxPrice, location);
